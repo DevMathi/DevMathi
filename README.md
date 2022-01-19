@@ -1,8 +1,7 @@
 Bem vindo ao meu perfil!!!
-<div align="center">
+<div align="left">
   <a href="https://github.com/DevMathi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMathi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMathi&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mathi-Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
