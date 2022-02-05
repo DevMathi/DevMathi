@@ -12,7 +12,7 @@ Me chamo Matheus De Oliveira</h2>
   
   <img align="center" alt="Mathi-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
-
+<br>
 
 <div align="left">
   <a href="https://github.com/DevMathi">
