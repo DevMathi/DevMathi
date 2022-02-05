@@ -1,6 +1,6 @@
-<h1 align="center">Bem-vindo ao meu perfil !! <br>
-Me chamo Matheus De Oliveira</h1>
-<h2 align="center">Logo abaixo estão listadas as minhas atuais habilidades na programação e as que desejo adquirir</h2>
+<h2 align="center">Bem-vindo ao meu perfil !! <br>
+Me chamo Matheus De Oliveira</h2>
+<h3 align="center">Logo abaixo estão listadas as minhas atuais habilidades na programação e as que desejo adquirir</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mathi-Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   
