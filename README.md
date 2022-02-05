@@ -18,6 +18,20 @@ Me chamo Matheus De Oliveira</h2>
   <a href="https://github.com/DevMathi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMathi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-  <summary>More about me</summary>
+  <details>
+    <summary>More about me</summary>
+    <p>
+        I'm a self-taught student, introverted and very observant. <br />
+        I'm currently contributing to the open source world to put into practice the knowledge acquired in my studies. I also help the guys who are starting programming in the communities.
+    </p>
+    <ul>
+        <li>🎓 Technician in System Development by ETEC</li>
+        <li>🎯 Contribute and create open source projects</li>
+        <li>📚 I'm studying Python | Algorithms | Dev Web | English</li>
+        <li>💬 You can ask me questions, I like to help!</li>
+        <li>🌑 Observing space</li>
+        <li>🎮 Find me in the gaming world: <b>TheuzzLivee</b></li>
+    </ul>
+</details>
 
 
