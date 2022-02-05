@@ -37,7 +37,7 @@
                     Udemy
                 </li>
                 <li>
-                   Rockseat
+                   Rockseat 🚀
                 </li>
             </ul>
     </details> 
