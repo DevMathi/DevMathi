@@ -1,12 +1,6 @@
-<h2 align="center">Bem-vindo ao meu perfil!!! <br>
-Me chamo Matheus De Oliveira</h2>
+<h1 align="center">Bem-vindo ao meu perfil !! <br>
+Me chamo Matheus De Oliveira</h1>
 <h2 align="center">Logo abaixo estão listadas as minhas atuais habilidades na programação e as que desejo adquirir</h2>
-
-
-<div align="left">
-  <a href="https://github.com/DevMathi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMathi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mathi-Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   
@@ -18,4 +12,11 @@ Me chamo Matheus De Oliveira</h2>
   
   <img align="center" alt="Mathi-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
+
+
+<div align="left">
+  <a href="https://github.com/DevMathi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMathi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
 
