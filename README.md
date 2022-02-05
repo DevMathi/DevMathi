@@ -1,5 +1,5 @@
-<h1 align="center">Bem-vindo ao meu perfil!!! <br>
-Me chamo Matheus De Oliveira</h1>
+<h2 align="center">Bem-vindo ao meu perfil!!! <br>
+Me chamo Matheus De Oliveira</h2>
 <h2 align="center">Logo abaixo estão listadas as minhas atuais habilidades na programação e as que desejo adquirir</h2>
 
 
