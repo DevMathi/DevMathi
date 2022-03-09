@@ -11,19 +11,13 @@
             <summary>🎯Minhas metas para 2022</summary>
             <ul>
                 <li>
-                    Aperfeiçoar meu HTML e meu CSS
-                </li>
-                <li>
                     Dominar o JavaScript
                 </li>
                 <li>
                     Aprender React
                 </li>
                 <li>
-                    E aprender sobre outras tecnologias 
-                </li>
-                <li>
-                   Conseguir minha primeira vaga como desenvolvedor Jr
+                   Conseguir minha primeira vaga como desenvolvedor
                 </li>
             </ul>
     </details> 
