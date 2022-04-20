@@ -6,21 +6,7 @@
     <h3 align="center" >Sobre mim</h3>
     <p align="center">🙋‍♂️</p>
     <p>Me chamo Matheus De Oliveira Ferreira, tenho 19 anos, e sempre estou buscando adquirir conhecimento na área de front-end, onde pretendo atuar como desenvolvedor.
-        Ainda não possuo experiência atuando na área, apenas em cursos onde estudo para desenvolver minhas habilidades.</p>
-       <details>
-            <summary>🎯Minhas metas para 2022</summary>
-            <ul>
-                <li>
-                    Dominar o JavaScript
-                </li>
-                <li>
-                    Aprender React
-                </li>
-                <li>
-                   Conseguir minha primeira vaga como desenvolvedor
-                </li>
-            </ul>
-    </details> 
+        Ainda não possuo experiência atuando na área, apenas em cursos onde estudo para desenvolver minhas habilidades.</p> 
     <details>
         <summary>📚Onde estudo</summary>
             <ul>
